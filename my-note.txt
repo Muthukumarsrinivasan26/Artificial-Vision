@@ -1,0 +1,4 @@
+pip install face-recognition
+pip install deepface
+
+keras-vggface
